@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Parti API - People Endpoints</h1>
+    <h1>Parti API -  Endpoints</h1>
     <p>Here are the API endpoints for interacting with user and profile data on the Parti platform. The <code>{id}</code> placeholder can be replaced with a specific user ID.</p>
     <h2>Endpoints:</h2>
     <ul>
