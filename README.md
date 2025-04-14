@@ -12,9 +12,6 @@
         <li><b>Get User Profile</b><br>
             <code>GET https://api-backend.parti.com/parti_v2/profile/user_profile/{id}</code>
         </li>
-        <li><b>Get Global Moderators List</b><br>
-            <code>GET https://api-backend.parti.com/parti_v2/profile/admin/global_mod/list</code>
-        </li>
         <li><b>Get Livestream Channel Info</b><br>
             <code>GET https://api-backend.parti.com/parti_v2/profile/get_livestream_channel_info/{id}</code>
         </li>
