@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parti API - People Endpoints</title>
 </head>
 <body>
     <h1>Parti API - People Endpoints</h1>
