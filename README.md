@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="https://github.com/user-attachments/assets/8aefdbc2-8e48-43e9-a549-6df85a4424ac"    alt="YouTube Anti-Viewbot Detector" width="250" height="250">
+    <img src="https://github.com/user-attachments/assets/8aefdbc2-8e48-43e9-a549-6df85a4424ac"    alt="PARTI.COM" width="250" height="250">
     <h1>Parti API -  Endpoints</h1>
     <p>Here are the API endpoints for interacting with user and profile data on the Parti platform. The <code>{id}</code> placeholder can be replaced with a specific user ID.</p>
     <h2>Endpoints:</h2>
