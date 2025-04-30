@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="https://github.com/user-attachments/assets/8aefdbc2-8e48-43e9-a549-6df85a4424ac"    alt="PARTI.COM" width="250" height="250">
-    <h1>Parti API -  Endpoints</h1>
+    <img src="https://github.com/user-attachments/assets/8aefdbc2-8e48-43e9-a549-6df85a4424ac" alt="PARTI.COM" width="250" height="250">
+    <h1>Parti API - Endpoints</h1>
     <p>Here are the API endpoints for interacting with user and profile data on the Parti platform. The <code>{id}</code> placeholder can be replaced with a specific user ID.</p>
     <h2>Endpoints:</h2>
     <ul>
@@ -15,6 +15,9 @@
         </li>
         <li><b>Get Livestream Channel Info</b><br>
             <code>GET https://api-backend.parti.com/parti_v2/profile/get_livestream_channel_info/{id}</code>
+        </li>
+        <li><b>Get Recent Broadcast (VOD)</b><br>
+            <code>GET https://api-backend.parti.com/parti_v2/profile/get_livestream_channel_info/recent/{id}</code>
         </li>
         <li><b>Get Livestream Moderators</b><br>
             <code>GET https://api-backend.parti.com/parti_v2/profile/livestream/moderators/{id}</code>
@@ -32,3 +35,4 @@
     <p>Simply replace <code>{id}</code> with the specific user ID to access the corresponding profile data.</p>
 </body>
 </html>
+
