@@ -34,8 +34,13 @@
         <li><b>Get User Profile Feed</b><br>
             <code>GET https://api-backend.parti.com/parti_v2/profile/user_profile_feed/{id}?&limit=5</code>
         </li>
+        <li><b>Get User Chatroom</b><br>
+            <code>GET https://api-backend.parti.com/parti_v2/profile/user_profile_chat/{id}/public</code>
+        </li>
+        <li><b>Get Admin Global Moderator List</b><br>
+            <code>GET https://api-backend.parti.com/parti_v2/profile/admin/global_mod/list</code>
+        </li>
     </ul>
     <p>Simply replace <code>{id}</code> with the specific user ID to access the corresponding profile data.</p>
 </body>
 </html>
-
