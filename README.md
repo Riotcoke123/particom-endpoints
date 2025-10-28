@@ -42,5 +42,6 @@
         </li>
     </ul>
     <p>Simply replace <code>{id}</code> with the specific user ID to access the corresponding profile data.</p>
+    <p>as og 10/28/2025. This api is dead. Go to <a href="https://github.com/Riotcoke123/PARTI.COMAPIV2">2.0</a>
 </body>
 </html>
