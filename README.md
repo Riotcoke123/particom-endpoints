@@ -7,6 +7,7 @@
 <body>
     <img src="https://github.com/user-attachments/assets/8aefdbc2-8e48-43e9-a549-6df85a4424ac" alt="PARTI.COM" width="250" height="250">
     <h1>Parti API - Endpoints</h1>
+        <p>AS OF  10/28/2025. This api is dead. Go to <a href="https://github.com/Riotcoke123/PARTI.COMAPIV2">2.0</a>
     <p>Here are the API endpoints for interacting with user and profile data on the Parti platform. The <code>{id}</code> placeholder can be replaced with a specific user ID.</p>
     <h2>Endpoints:</h2>
     <ul>
@@ -42,6 +43,5 @@
         </li>
     </ul>
     <p>Simply replace <code>{id}</code> with the specific user ID to access the corresponding profile data.</p>
-    <p>as og 10/28/2025. This api is dead. Go to <a href="https://github.com/Riotcoke123/PARTI.COMAPIV2">2.0</a>
 </body>
 </html>
